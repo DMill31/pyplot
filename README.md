@@ -3,6 +3,8 @@
 Complete the tasks in the Python Notebook in this repository.
 To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
 
+This repository is for exploring the possiblities of creating visualizations using Python.  Numerous plots are made using different sets of data.
+
 ## Rubric
 
 Each question is worth two points: 
